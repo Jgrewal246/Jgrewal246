@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Sarbjot, Fullstack developer from <img src="https://w7.pngwing.com/pngs/413/78/png-transparent-canada-maple-leaf-canada-maple-leaf-maple-leaf-thumbnail.png" width="13"/> <b>Canada</b>. 
+<p>Welcome to my page! </br> I'm Jaskaran, Fullstack developer from <img src="https://w7.pngwing.com/pngs/413/78/png-transparent-canada-maple-leaf-canada-maple-leaf-maple-leaf-thumbnail.png" width="13"/> <b>Canada</b>. 
 <h3>Things I code with</h3>
 <p>
     <img alt=".Net" src="https://img.shields.io/badge/-.NET-blueviolet" />
@@ -32,16 +32,6 @@
       <th>Description</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/sarbjot-14/amazon-clone">Amazon Clone</a></td>
-      <td>Amazon Clone to learn about microservices and full stack development using .NET and Angular</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/sarbjot-14/yt-clone">Youtube Clone</a></td>
-      <td>Youtube Clone created to practice web development using Next.js</td>
-    </tr>
-  </tbody>
 </table>
 <h3>Sports I love playing</h3>
 <ul>
